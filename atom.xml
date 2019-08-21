@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>隧传质子酸</title>
+  <title>隧穿质子酸</title>
   
   <subtitle>我的精神家园</subtitle>
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://pracid.com/"/>
-  <updated>2019-08-21T03:28:32.719Z</updated>
+  <updated>2019-08-21T01:43:08.584Z</updated>
   <id>http://pracid.com/</id>
   
   <author>
@@ -15,56 +15,6 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
-  
-  <entry>
-    <title>categories</title>
-    <link href="http://pracid.com/2019/08/21/categories/"/>
-    <id>http://pracid.com/2019/08/21/categories/</id>
-    <published>2019-08-21T03:28:32.000Z</published>
-    <updated>2019-08-21T03:28:32.719Z</updated>
-    
-    <summary type="html">
-    
-    </summary>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>tages</title>
-    <link href="http://pracid.com/2019/08/21/tages/"/>
-    <id>http://pracid.com/2019/08/21/tages/</id>
-    <published>2019-08-21T03:28:07.000Z</published>
-    <updated>2019-08-21T03:28:07.412Z</updated>
-    
-    <summary type="html">
-    
-    </summary>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>about</title>
-    <link href="http://pracid.com/2019/08/21/about/"/>
-    <id>http://pracid.com/2019/08/21/about/</id>
-    <published>2019-08-21T03:27:41.000Z</published>
-    <updated>2019-08-21T03:31:50.707Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;h2 id=&quot;一个唯心主义者&quot;&gt;&lt;a href=&quot;#一个唯心主义者&quot; class=&quot;headerlink&quot; title=&quot;一个唯心主义者&quot;&gt;&lt;/a&gt;一个唯心主义者&lt;/h2&gt;&lt;h2 id=&quot;一个不可知论者&quot;&gt;&lt;a href=&quot;#一个不可知论者&quot;
-        
-      
-    
-    </summary>
-    
-    
-  </entry>
   
   <entry>
     <title>电影推荐——活人总比死人重要</title>
