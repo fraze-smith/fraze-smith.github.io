@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>质子酸博客</title>
+  <title>隧传质子酸</title>
   
   <subtitle>我的精神家园</subtitle>
   <link href="/atom.xml" rel="self"/>
   
-  <link href="https://pracid.com/"/>
-  <updated>2019-08-20T12:04:33.603Z</updated>
-  <id>https://pracid.com/</id>
+  <link href="http://pracid.com/"/>
+  <updated>2019-08-21T03:28:32.719Z</updated>
+  <id>http://pracid.com/</id>
   
   <author>
     <name>fraze</name>
@@ -17,11 +17,61 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>categories</title>
+    <link href="http://pracid.com/2019/08/21/categories/"/>
+    <id>http://pracid.com/2019/08/21/categories/</id>
+    <published>2019-08-21T03:28:32.000Z</published>
+    <updated>2019-08-21T03:28:32.719Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>tages</title>
+    <link href="http://pracid.com/2019/08/21/tages/"/>
+    <id>http://pracid.com/2019/08/21/tages/</id>
+    <published>2019-08-21T03:28:07.000Z</published>
+    <updated>2019-08-21T03:28:07.412Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>about</title>
+    <link href="http://pracid.com/2019/08/21/about/"/>
+    <id>http://pracid.com/2019/08/21/about/</id>
+    <published>2019-08-21T03:27:41.000Z</published>
+    <updated>2019-08-21T03:31:50.707Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h2 id=&quot;一个唯心主义者&quot;&gt;&lt;a href=&quot;#一个唯心主义者&quot; class=&quot;headerlink&quot; title=&quot;一个唯心主义者&quot;&gt;&lt;/a&gt;一个唯心主义者&lt;/h2&gt;&lt;h2 id=&quot;一个不可知论者&quot;&gt;&lt;a href=&quot;#一个不可知论者&quot;
+        
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
     <title>电影推荐——活人总比死人重要</title>
-    <link href="https://pracid.com/2019/08/11/%E6%B4%BB%E4%BA%BA%E6%80%BB%E6%AF%94%E6%AD%BB%E4%BA%BA%E9%87%8D%E8%A6%81/"/>
-    <id>https://pracid.com/2019/08/11/活人总比死人重要/</id>
+    <link href="http://pracid.com/2019/08/11/%E6%B4%BB%E4%BA%BA%E6%80%BB%E6%AF%94%E6%AD%BB%E4%BA%BA%E9%87%8D%E8%A6%81/"/>
+    <id>http://pracid.com/2019/08/11/活人总比死人重要/</id>
     <published>2019-08-11T12:02:53.000Z</published>
-    <updated>2019-08-20T12:04:33.603Z</updated>
+    <updated>2019-08-21T01:43:08.584Z</updated>
     
     <summary type="html">
     
@@ -36,16 +86,16 @@
     </summary>
     
     
-      <category term="影评，电影推荐，夹边沟" scheme="https://pracid.com/tags/%E5%BD%B1%E8%AF%84%EF%BC%8C%E7%94%B5%E5%BD%B1%E6%8E%A8%E8%8D%90%EF%BC%8C%E5%A4%B9%E8%BE%B9%E6%B2%9F/"/>
+      <category term="影评，电影推荐，夹边沟" scheme="http://pracid.com/tags/%E5%BD%B1%E8%AF%84%EF%BC%8C%E7%94%B5%E5%BD%B1%E6%8E%A8%E8%8D%90%EF%BC%8C%E5%A4%B9%E8%BE%B9%E6%B2%9F/"/>
     
   </entry>
   
   <entry>
     <title>欢迎订阅</title>
-    <link href="https://pracid.com/2019/08/11/%E6%AC%A2%E8%BF%8E%E8%AE%A2%E9%98%85/"/>
-    <id>https://pracid.com/2019/08/11/欢迎订阅/</id>
+    <link href="http://pracid.com/2019/08/11/%E6%AC%A2%E8%BF%8E%E8%AE%A2%E9%98%85/"/>
+    <id>http://pracid.com/2019/08/11/欢迎订阅/</id>
     <published>2019-08-11T07:20:56.000Z</published>
-    <updated>2019-08-20T12:04:18.689Z</updated>
+    <updated>2019-08-21T01:43:08.584Z</updated>
     
     <summary type="html">
     
@@ -65,10 +115,10 @@
   
   <entry>
     <title>电影推荐-春去春回</title>
-    <link href="https://pracid.com/2019/08/11/%E7%94%B5%E5%BD%B1%E6%8E%A8%E8%8D%90-%E6%98%A5%E5%8E%BB%E6%98%A5%E5%9B%9E/"/>
-    <id>https://pracid.com/2019/08/11/电影推荐-春去春回/</id>
+    <link href="http://pracid.com/2019/08/11/%E7%94%B5%E5%BD%B1%E6%8E%A8%E8%8D%90-%E6%98%A5%E5%8E%BB%E6%98%A5%E5%9B%9E/"/>
+    <id>http://pracid.com/2019/08/11/电影推荐-春去春回/</id>
     <published>2019-08-11T06:52:26.000Z</published>
-    <updated>2019-08-20T12:04:46.016Z</updated>
+    <updated>2019-08-21T01:43:08.585Z</updated>
     
     <summary type="html">
     
@@ -84,16 +134,16 @@
     </summary>
     
     
-      <category term="电影推荐，推荐" scheme="https://pracid.com/tags/%E7%94%B5%E5%BD%B1%E6%8E%A8%E8%8D%90%EF%BC%8C%E6%8E%A8%E8%8D%90/"/>
+      <category term="电影推荐，推荐" scheme="http://pracid.com/tags/%E7%94%B5%E5%BD%B1%E6%8E%A8%E8%8D%90%EF%BC%8C%E6%8E%A8%E8%8D%90/"/>
     
   </entry>
   
   <entry>
     <title>hexo博客的配置与SEO优化</title>
-    <link href="https://pracid.com/2019/07/25/hexo%E5%8D%9A%E5%AE%A2%E7%9A%84%E9%85%8D%E7%BD%AE%E4%B8%8ESEO%E4%BC%98%E5%8C%96/"/>
-    <id>https://pracid.com/2019/07/25/hexo博客的配置与SEO优化/</id>
+    <link href="http://pracid.com/2019/07/25/hexo%E5%8D%9A%E5%AE%A2%E7%9A%84%E9%85%8D%E7%BD%AE%E4%B8%8ESEO%E4%BC%98%E5%8C%96/"/>
+    <id>http://pracid.com/2019/07/25/hexo博客的配置与SEO优化/</id>
     <published>2019-07-25T14:27:21.000Z</published>
-    <updated>2019-08-20T12:03:46.167Z</updated>
+    <updated>2019-08-21T01:43:08.583Z</updated>
     
     <summary type="html">
     
@@ -112,10 +162,10 @@
   
   <entry>
     <title>科学上网全指南</title>
-    <link href="https://pracid.com/2019/07/25/%E7%A7%91%E5%AD%A6%E4%B8%8A%E7%BD%91%E5%85%A8%E6%8C%87%E5%8D%97/"/>
-    <id>https://pracid.com/2019/07/25/科学上网全指南/</id>
+    <link href="http://pracid.com/2019/07/25/%E7%A7%91%E5%AD%A6%E4%B8%8A%E7%BD%91%E5%85%A8%E6%8C%87%E5%8D%97/"/>
+    <id>http://pracid.com/2019/07/25/科学上网全指南/</id>
     <published>2019-07-25T13:54:45.000Z</published>
-    <updated>2019-08-20T12:04:55.835Z</updated>
+    <updated>2019-08-21T01:43:08.585Z</updated>
     
     <summary type="html">
     
@@ -133,20 +183,20 @@
     </summary>
     
     
-      <category term="翻墙" scheme="https://pracid.com/tags/%E7%BF%BB%E5%A2%99/"/>
+      <category term="翻墙" scheme="http://pracid.com/tags/%E7%BF%BB%E5%A2%99/"/>
     
-      <category term="科学上网" scheme="https://pracid.com/tags/%E7%A7%91%E5%AD%A6%E4%B8%8A%E7%BD%91/"/>
+      <category term="科学上网" scheme="http://pracid.com/tags/%E7%A7%91%E5%AD%A6%E4%B8%8A%E7%BD%91/"/>
     
-      <category term="自由" scheme="https://pracid.com/tags/%E8%87%AA%E7%94%B1/"/>
+      <category term="自由" scheme="http://pracid.com/tags/%E8%87%AA%E7%94%B1/"/>
     
   </entry>
   
   <entry>
     <title>atom配置anaconda虚拟环境附带atom修改快捷键.md</title>
-    <link href="https://pracid.com/2019/07/25/atom%E9%85%8D%E7%BD%AEanaconda%E8%99%9A%E6%8B%9F%E7%8E%AF%E5%A2%83%E9%99%84%E5%B8%A6atom%E4%BF%AE%E6%94%B9%E5%BF%AB%E6%8D%B7%E9%94%AE/"/>
-    <id>https://pracid.com/2019/07/25/atom配置anaconda虚拟环境附带atom修改快捷键/</id>
+    <link href="http://pracid.com/2019/07/25/atom%E9%85%8D%E7%BD%AEanaconda%E8%99%9A%E6%8B%9F%E7%8E%AF%E5%A2%83%E9%99%84%E5%B8%A6atom%E4%BF%AE%E6%94%B9%E5%BF%AB%E6%8D%B7%E9%94%AE/"/>
+    <id>http://pracid.com/2019/07/25/atom配置anaconda虚拟环境附带atom修改快捷键/</id>
     <published>2019-07-25T13:45:36.000Z</published>
-    <updated>2019-08-11T13:46:23.968Z</updated>
+    <updated>2019-08-21T01:43:08.582Z</updated>
     
     <summary type="html">
     
@@ -159,10 +209,10 @@
   
   <entry>
     <title>anaconda在mac上的安装与配置</title>
-    <link href="https://pracid.com/2019/07/25/install-and-setup-anaconda-in-mac/"/>
-    <id>https://pracid.com/2019/07/25/install-and-setup-anaconda-in-mac/</id>
+    <link href="http://pracid.com/2019/07/25/install-and-setup-anaconda-in-mac/"/>
+    <id>http://pracid.com/2019/07/25/install-and-setup-anaconda-in-mac/</id>
     <published>2019-07-25T13:44:27.000Z</published>
-    <updated>2019-08-20T12:04:07.489Z</updated>
+    <updated>2019-08-21T01:43:08.583Z</updated>
     
     <summary type="html">
     
@@ -178,18 +228,18 @@
     </summary>
     
     
-      <category term="mac" scheme="https://pracid.com/tags/mac/"/>
+      <category term="mac" scheme="http://pracid.com/tags/mac/"/>
     
-      <category term="anaconda" scheme="https://pracid.com/tags/anaconda/"/>
+      <category term="anaconda" scheme="http://pracid.com/tags/anaconda/"/>
     
   </entry>
   
   <entry>
     <title>如何用atom直接运行python程序</title>
-    <link href="https://pracid.com/2019/07/24/how-to-run-pyton-in-atom/"/>
-    <id>https://pracid.com/2019/07/24/how-to-run-pyton-in-atom/</id>
+    <link href="http://pracid.com/2019/07/24/how-to-run-pyton-in-atom/"/>
+    <id>http://pracid.com/2019/07/24/how-to-run-pyton-in-atom/</id>
     <published>2019-07-24T15:12:43.000Z</published>
-    <updated>2019-08-20T12:03:55.067Z</updated>
+    <updated>2019-08-21T01:43:08.583Z</updated>
     
     <summary type="html">
     
